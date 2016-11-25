@@ -15,7 +15,7 @@ python ./crypto_script.py -d -f 123.pdf -p test
 The script is made with the help of Youtube tutorials by DrapsTV:
 https://www.youtube.com/channel/UCea5cMUa9xNU0kUtbRcTkqA
 
-Actually, I tok the encryption and decryption part from there, some argparse part also and then rebuilt it for my needs.
+Actually, I took the encryption and decryption part from there, some argparse part also and then rebuilt it for my needs.
 """
 
 
